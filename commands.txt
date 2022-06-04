@@ -2,3 +2,5 @@ git init==>initialize the untracked files
 git status==>list all untracked files
 git add -A==> to add untracked files to SA
 git commit -m "msg"==> to add local repository
+git remote add path link
+git push -u name branch
